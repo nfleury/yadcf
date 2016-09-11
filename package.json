@@ -1,0 +1,19 @@
+{
+  "name": "yadcf",
+  "version": "1.0.0",
+  "description": "Yet Another DataTables Column Filter - (yadcf) =====",
+  "main": "jquery.dataTables.yadcf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfleury/yadcf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfleury/yadcf/issues"
+  },
+  "homepage": "https://github.com/nfleury/yadcf#readme"
+}
